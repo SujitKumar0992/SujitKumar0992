@@ -1,16 +1,24 @@
-### Hi there 👋
 
-<!--
-**SujitKumar0992/SujitKumar0992** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm SujitKumar Sontakke! 👋
 
-Here are some ideas to get you started:
+I am a Machine Learning Engineer with skills in Machine Learning, Deep Learning, and NLP. I have worked on frameworks such as Tensorflow, Keras, Scikit-learn, and Flask. I have built several End to End projects with machine learning, deep learning, and NLP.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+My key skills in data science projects include EDA, feature Engineering, data cleaning.
+
+Skills: Python / Machine Learning / Deep Learning / NLP / Feature Engineering
+
+## Other Common Github Profile Sections
+👩‍💻  I’m currently working in Deep Learning and NLP
+
+🧠 I'm currently exploring Transformer
+
+
+
+
+
+
+
+
+
+

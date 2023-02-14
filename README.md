@@ -1,4 +1,3 @@
-
 # Hi, I'm SujitKumar Sontakke! 👋
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDU0ZTQyMTg1ZTA0ODRiM2E2OTMxZjg4NDdmYjM1MjIyM2ZkZTE4MSZjdD1n/9N2UvCx7wXLnG/giphy.gif">

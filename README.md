@@ -1,7 +1,7 @@
 
 # Hi, I'm SujitKumar Sontakke! 👋
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/l41lJ8ywG1ncm9FXW/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/5owNSuvkqgLg1iqNrF/giphy-downsized-large.gif">
 
 I am a Machine Learning Engineer with skills in Machine Learning, Deep Learning, and NLP. I have worked on frameworks such as Tensorflow, Keras, Scikit-learn, and Flask. I have built several End to End projects with machine learning, deep learning, and NLP.
 

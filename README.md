@@ -14,7 +14,7 @@ Skills: Python / Machine Learning / Deep Learning / NLP / Feature Engineering
 
 🧠 I'm currently exploring ML-Ops
 
-📫 How to reach me **sujeetsontakke3113@gmail.com**
+📫 How to reach me **sujit.sontakke13@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
